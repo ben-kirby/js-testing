@@ -1,0 +1,28 @@
+.container{
+  font-style: italic;
+}
+
+.headers{
+  font-weight: bold;
+  color: green;
+}
+
+.hidden{
+  display: none;
+}
+
+.redbg{
+  background-color: red;
+}
+
+.yellowbg{
+  background-color: yellow;
+}
+
+.greenbg{
+  background-color: green;
+}
+
+.bluebg{
+  background-color: blue;
+}
